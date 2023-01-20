@@ -1,0 +1,29 @@
+.primary-color{
+    background-color: #E76F51;
+}
+
+.primary-color:hover{
+    background-color: #df6647;
+}
+
+.btn-outline-primary-color{
+    border: 2px solid #E76F51;
+    border-radius: 5px;
+    color: #E76F51;
+}
+
+.btn-outline-primary-color:hover{
+    background-color: #E76F51;
+}
+
+.text-primary-color{
+    color: #E76F51;
+}
+
+.black-white .BandW{
+   filter: grayscale(100%);
+}
+
+.bg-footer{
+    background-color: #0B0D17;
+}
